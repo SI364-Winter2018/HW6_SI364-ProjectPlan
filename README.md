@@ -32,7 +32,9 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
     * Decorators (e.g. `@app.route(...)`) and definition statements for all of the view functions you expect to use in the application. Each definition should have `pass` underneath it -- you are not expected to write out the code for the view functions yet.
 
-    * Comments next to each view function definition describing BRIEFLY what that view function should do. e.g. `# Should render form for entering music data and process the data from the form to save it to db with get-or-create`
+    * Comments next to each view function definition describing BRIEFLY what that view function should do and what it should render/redirect/return to. e.g. `# Should render form for entering music data and process the data from the form to save it to db with get-or-create. When the form is submitted, should redirect to the same page with the empty form; if not, should just show the form.` Something that makes clear exactly what should happen, so that even one of us would have an idea of what sort of thing to implement.
+
+    * Note that you do NOT have to define the form classes here yet -- but you'll probably want to think about what they will be!
 
     * This file will certainly not work properly with only this stuff in it, but it should not include syntax errors. It should simply need a LOT of additions for it to work properly (sort of like a much briefer, much less complete version of the code you were provided in HW4).
 
