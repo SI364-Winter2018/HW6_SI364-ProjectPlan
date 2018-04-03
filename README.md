@@ -3,7 +3,9 @@
 ### Deadline: April 11, 2018 11:59 PM
 ### Total: 1000 points
 
-#### Below: Overall ; Instructions ; To Submit ; Additional Notes
+#### Below: *Overall ; Instructions ; To Submit ; Additional Notes*
+
+As always, you should read these instructions carefully before beginning work.
 
 ## Overall
 
@@ -56,9 +58,9 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
 You should submit 3 files to the **HW 6 / Final Project Plan** assignment **on Canvas**, corresponding to the instructions above about each one:
 
-* `initial_project_idea.txt`
-* `SI364final.py`
-* `practice_api.py`
+* `initial_project_idea.txt` (200 points)
+* `SI364final.py` (500 points)
+* `practice_api.py` (300 points)
 
 You may also submit additional files if you like -- e.g. if you made drawings to help you plan out your routes and view functions, feel free to take a picture of those or scan them and upload them, as well. **If you upload any additional files, please be VERY clear in your file naming and Canvas submissions what they are and what information they contain.**
 
@@ -84,6 +86,6 @@ Please do NOT submit files as a `.zip`; submit them one by one to the assignment
 
 * Read API documentation carefully, maybe even take notes, before working on your `practice_api.py` file -- if you do, this process will probably go even faster! One of the reasons for this requirement is so you plan carefully to ensure you *can* get the data you expect to get from whatever API you choose to use.
 
-* It's OK to include API keys and so on in the `practice_api.py` file. You should NOT include these in your final project, ultimately -- we'll provide instructions for how to handle that -- but in this case, you are only submitting this file to Canvas so we can run it.
+* It's OK to include API keys and so on in the `practice_api.py` file. You should NOT include these in your final project, ultimately -- we'll provide instructions for how to handle that -- but in this case, you are only submitting this file to Canvas <u>so we can run it</u>.
 
-* **All code files you submit should run, even if they are unfinished.**
+* **All code files you submit should run (no syntax errors), even if they are unfinished.**
