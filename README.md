@@ -50,9 +50,10 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
     * Accesses elements of the data inside the return value(s) of those invocations (e.g. `one_tweet = twitter_data['statuses'][0]` or what have you...)
 
-    * Includes *comments* explaining exactly how this data will be integrated into your application
-        * For example (this example is also based on a previous class exercise), *Based on users' input to a form, this function will be invoked on that input to return data about movies, and that data will be saved in the Movie db table*
+    * Includes *comments* explaining exactly how this data will be integrated into your application, and a comment noting sample inputs to the function that makes requests to the API.
+        * For example (this example is also based on a previous class exercise), *Based on users' input to a form, this function will be invoked on that input to return data about movies, and that data will be saved in the Movie db table. // Sample inputs to the form (and thus to the function) could be: Titanic, The Big Chill, Black Panther*
         * Your goal should be to convince us that you feel somewhat confident using this API's data and have a good understanding of how you will access it, and use it, in the application you are building for the final project.
+
 
     * This file *should* run, should work. Your goal here in completing this assignment is selecting an API that will work for you and making sure that you can define a function to get data from it that works successfully.
         * (We've done a number of examples of this in this class, as well as in e.g. 106 and 206, so those will be good references to refer to!)
