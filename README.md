@@ -19,12 +19,12 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
 ## Instructions
 
-* Check out the [Final Project requirements](https://github.com/SI364-Winter2018/SI364_Final_Project_Instructions) to come up with an idea that will allow you to fulfill all the requirements you intend to complete.
+* **Check out the [Final Project requirements](https://github.com/SI364-Winter2018/SI364_Final_Project_Instructions) to come up with an idea that will allow you to fulfill all the requirements you intend to complete.**
     * You should think about stuff like: *How can I briefly describe what my application will do?* and *What type of data should be SAVED in the application? What kind of relationships between entities in the database will I need to make this work?* If it's really hard to come up with answers to questions like that, maybe this idea isn't the right one for the final project and you should come up with another one for this project.
 
-* Write a paragraph in English describing what your final project application will do, at a high level. For example (this is describing an application you saw in class) -- *This application allows users to register and sign in, and save possible tweets that they could post to Twitter on their own account. Users can see all the possible tweets they have saved but can't see other users' tweets.* **Save it in a file `initial_project_idea.txt`. This is one of the files you should submit.** You *may* also include in this file any other specifics about what content the app will have (as notes for yourself) and why you are planning to build this particular application if you wish.
+* **Write a paragraph in English describing what your final project application will do, at a high level.** For example (this is describing an application you saw in class) -- *This application allows users to register and sign in, and save possible tweets that they could post to Twitter on their own account. Users can see all the possible tweets they have saved but can't see other users' tweets.* **Save it in a file `initial_project_idea.txt`. This is one of the files you should submit.** You *may* also include in this file any other specifics about what content the app will have (as notes for yourself) and why you are planning to build this particular application if you wish.
 
-* Write the outline of your application in code in a `SI364final.py` file. What does that mean? This file should include:
+* **Write the outline of your application in code in a `SI364final.py` file.** What does that mean? This file should include:
 
     * All import and configuration statements/setup you expect to need, including a database URI. **The database you use for this project plan assignment should be a temporary one -- it should be called `SI364projectplan`**
     * Definitions of all the model classes you will use, *including* the relationships between database tables
@@ -40,7 +40,7 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
     * This file will certainly not work properly with only this stuff in it, but it should not include syntax errors. It should simply need a LOT of additions for it to work properly (sort of like a much briefer, much less complete version of the code you were provided in HW4).
 
-* Write code in a file `practice_api.py` which:
+* **Write code in a file `practice_api.py`** which:
 
     * Defines a function that, based on input, will make a request to the/an external API you plan to use in this application and returns data.
 
