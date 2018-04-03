@@ -28,7 +28,7 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
 * **Write the outline of your application in code in a `SI364final.py` file.** What does that mean? This file should include:
 
-    * All import and configuration statements/setup you expect to need, including a database URI. **The database you use for this project plan assignment should be a temporary one -- it should be called `SI364projectplan`**
+    * All import and configuration statements/setup you expect to need, including a database URI. **The database you use for this project plan assignment should be a temporary one -- it should be called `SI364projectplanYOURUNIQNAME`**
     * Definitions of all the model classes you will use, *including* the relationships between database tables
         * So at least 1 one-to-many and 1 many-to-many relationship, including an association table for each many-to-many
         * You should try to anticipate all the relationships you will need and all the fields of data that will need to be in each model
@@ -40,7 +40,7 @@ Your work here must be *your solo work*. All English should come *solely* from y
 
     * Note that you do NOT have to define the form classes here yet -- but you'll probably want to think about what they will be!
 
-    * This file will certainly not work properly with only this stuff in it, but it should not include syntax errors. It should simply need a LOT of additions for it to work properly (sort of like a much briefer, much less complete version of the code you were provided in HW4).
+    * This file will certainly not work properly with only this stuff in it, but it should not include syntax errors, and when we run it, it should create the tables in the model classes in the `SI364projectplanYOURUNIQNAME` database. It should simply need a LOT of additions for it to work properly (sort of like a much briefer, much less complete version of the code you were provided in HW4).
 
 * **Write code in a file `practice_api.py`** which:
 
